@@ -36,16 +36,6 @@ Designed with clean class separation—`Book`, `User`, and `LibrarySystem`—and
 
 ---
 
-## 📂 Project Structure
-
-📦 library-management-system
-├── library_system.cpp # Main implementation
-└── README.md # Documentation
-
-yaml
-Copy code
-
----
 
 ## 🧠 Class Architecture Overview
 
